@@ -1,0 +1,3 @@
+﻿  za1.cpp
+D:\Documents\Desktop\Dido\FMI\Homework\za1\za1.cpp(102,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  za1.vcxproj -> D:\Documents\Desktop\Dido\FMI\Homework\Debug\za1.exe

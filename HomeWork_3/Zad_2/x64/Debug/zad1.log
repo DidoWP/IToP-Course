@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (zad1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  fn62384_d3_2_vc.cpp
+D:\Documents\Desktop\Dido\FMI\UP\HomeWork_3\zad1\fn62384_d3_2_vc.cpp(160): warning C4715: 'BiggerNumber': not all control paths return a value
+  zad1.vcxproj -> D:\Documents\Desktop\Dido\FMI\UP\HomeWork_3\x64\Debug\Zad2.exe
